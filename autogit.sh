@@ -11,7 +11,7 @@
 
 
 if [ $# -eq 0 ]; then
-	echo "NO COMMIT MESSAGE CONFIRMED"
+	echo "NO COMMIT MESSAGE CONFIRMED, PLEASE INSERT A COMMIT"
 	exit 1
 fi
 
